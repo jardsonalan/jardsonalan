@@ -2,4 +2,4 @@
 - 🌱 Python | HTML | CSS | MySQL;
 - 👀 Open to work;
 - 📫 How to reach me: E-mail - jardsonalan132@gmail.com;
-- 💡 Portuguese | English - Intermediate Level
+- 💡 Portuguese | English - Basic to Intermediate Level
