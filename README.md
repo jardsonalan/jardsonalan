@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jardsonalan;
-- 🌱 Python | HTML | CSS | MySQL;
+- 🌱 Python | JavaScript | HTML | CSS | MySQL;
 - 👀 Open to work;
-- 📫 How to reach me: E-mail - jardsonalan132@gmail.com;
+- 📫 How to reach me: E-mail - contato.jardsonalan@gmail.com;
 - 💡 Portuguese | English - Basic to Intermediate Level
