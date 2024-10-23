@@ -35,7 +35,7 @@ class Skills extends Developer {
 </div>
 
 <h1>Activities</h1>
-<div>
-  <img src='https://github-readme-stats.vercel.app/api?username=jardsonalan&theme=github_dark&card_width=450'>
-  <img align='right' src='https://github-readme-stats.vercel.app/api/top-langs/?username=jardsonalan&hide=html&layout=compact&theme=github_dark'>
+<div >
+  <img align='center' src='https://github-readme-stats.vercel.app/api?username=jardsonalan&theme=github_dark&card_width=400'>
+  <img align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=jardsonalan&hide=html&layout=compact&theme=github_dark&card_width=400'>
 </div>
