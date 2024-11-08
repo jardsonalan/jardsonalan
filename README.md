@@ -19,7 +19,7 @@ class Skills extends Developer {
 
     constructor(){
         super();
-        this.languages=['HTML5', 'CSS3', 'JavaScript', 'TypeScript', 'Python', 'MySQL'];
+        this.languages=['Vue.js', 'JavaScript', 'TypeScript', 'Python', 'MySQL'];
     };
 };
 ```
