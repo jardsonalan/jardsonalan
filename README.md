@@ -24,4 +24,4 @@ class Skills extends Developer {
 ```
 
 ## Skills
-[![Skills](https://skillicons.dev/icons?i=vue,vuetify,ts,js,py,html,css,mysql,vscode,figma,git,github,linux,windows)](https://github.com/jardsonalan)
+[![Skills](https://skillicons.dev/icons?i=vue,vuetify,ts,js,py,html,css,sass,mysql,vscode,figma,git,github,linux,windows)](https://github.com/jardsonalan)
