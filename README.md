@@ -1,5 +1,4 @@
-<h1>Welcome to my repository! 👋🏼</h1>
-
+# Welcome to my repository! 👋🏼
 
 ```ts
 abstract class Developer {
@@ -24,13 +23,5 @@ class Skills extends Developer {
 };
 ```
 
-<h2>Skills</h2>
-<div>
-    <img src="https://skillicons.dev/icons?i=vue,vuetify,ts,js,py,html,css,mysql,vscode,figma,git,github,linux,windows" />
-</div>
-
-<h2>Activities</h2>
-<div align='center'>
-    <img src='https://github-readme-stats.vercel.app/api?username=jardsonalan&theme=github_dark&card_width=400'>
-    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=jardsonalan&hide=html&layout=compact&theme=github_dark&card_width=400'>
-</div>
+## Skills
+[![Skills](https://skillicons.dev/icons?i=vue,vuetify,ts,js,py,html,css,mysql,vscode,figma,git,github,linux,windows)](https://github.com/jardsonalan)
