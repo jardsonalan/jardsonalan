@@ -1,27 +1,17 @@
-# Welcome to my repository! 👋🏼
+# Bem-vindo(a) ao meu repositório! 👋🏼
 
-```ts
-abstract class Developer {
-    private readonly id:number;
-    protected name:string;
-    protected stack:string;
-  
-    constructor(){
-      this.id = 1;
-      this.name = 'Jardson Alan';
-      this.stack = 'Front-End';
-    };
-};
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-01579b?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jardson-alan/)](https://www.linkedin.com/in/jardson-alan/)
+[![Personal Badge](https://img.shields.io/badge/-Portfólio-01579b?style=flat-square&logo=Me&logoColor=white&link=https://jardsonalan.github.io/portfolio/)](https://jardsonalan.github.io/portfolio/)
+[![Gmail Badge](https://img.shields.io/badge/-contato.jardsonalan@gmail.com-01579b?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.jardsonalan@gmail.com)](mailto:contato.jardsonalan@gmail.com)
 
-class Skills extends Developer {
-    private languages:string[] = [];
+## Meu nome é Jardson Alan
 
-    constructor(){
-        super();
-        this.languages=['HTML5', 'CSS3', 'Vue.js', 'JavaScript', 'TypeScript', 'Python', 'MySQL'];
-    };
-};
-```
+- 🎓 Técnico em Informática
+- 📚 Graduando em Sistemas para Internet
+- 👀 Aberto para propostas
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglês - Básico ao Intermediário | 🇧🇷 Português - Fluente
 
-## Skills
+
+## Ferramentas & Tecnologias
+
 [![Skills](https://skillicons.dev/icons?i=vue,vuetify,ts,js,py,html,css,sass,mysql,vscode,figma,git,github,linux,windows)](https://github.com/jardsonalan)
