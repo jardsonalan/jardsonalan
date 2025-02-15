@@ -14,4 +14,4 @@
 
 ## Ferramentas & Tecnologias
 
-[![Skills](https://skillicons.dev/icons?i=vue,vuetify,ts,js,py,html,css,sass,mysql,vscode,figma,git,github,linux,windows)](https://github.com/jardsonalan)
+[![Skills](https://skillicons.dev/icons?i=vue,vuetify,ts,js,py,html,css,sass,mysql,postgres,vscode,figma,git,github,bash,linux,windows,raspberrypi)](https://github.com/jardsonalan)
