@@ -1,17 +1,18 @@
-# Bem-vindo(a) ao meu repositório! 👋🏼
+# Hi, I'm Jardson Alan! 👋🏼
+Web Developer | Computer Technical | Currently studying Internet Systems
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-01579b?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jardson-alan/)](https://www.linkedin.com/in/jardson-alan/)
-[![Personal Badge](https://img.shields.io/badge/-Portfólio-01579b?style=flat-square&logo=Me&logoColor=white&link=https://jardsonalan.github.io/portfolio/)](https://jardsonalan.github.io/portfolio/)
-[![Gmail Badge](https://img.shields.io/badge/-contato.jardsonalan@gmail.com-01579b?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.jardsonalan@gmail.com)](mailto:contato.jardsonalan@gmail.com)
+- 📧 E-mail: [contato.jardsonalan@gmail.com](mailto:contato.jardsonalan@gmail.com)
+- 💼 LinkedIn: [jardson-alan](https://www.linkedin.com/in/jardson-alan/)
+- 🌐 Portfolio: [Jardson Alan](https://jardsonalan.github.io/portfolio/)
 
-## Meu nome é Jardson Alan
+## Technical Stack
+- Languages: Python, JavaScript, TypeScript, HTML, CSS, Sass/Scss, UML, Markdown
+- Frameworks: Vue.js, Vuetify
+- Databases: MySQL, PostgreSQL
+- Tools: Git, GitHub, Figma, Adobe Photoshop, Visual Studio Code
+- Methodology: Conventional Commits
+- Microcontrollers: Raspberry Pi Pico W
 
-- 🎓 Técnico em Informática
-- 📚 Graduando em Sistemas para Internet
-- 👀 Aberto para propostas
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglês - Básico ao Intermediário | 🇧🇷 Português - Fluente
-
-
-## Ferramentas & Tecnologias
+---
 
 [![Skills](https://skillicons.dev/icons?i=vue,vuetify,ts,js,py,html,css,sass,mysql,postgres,vscode,figma,git,github,bash,linux,windows,raspberrypi)](https://github.com/jardsonalan)
