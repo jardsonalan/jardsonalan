@@ -1,5 +1,5 @@
 # Hi, I'm Jardson Alan! 👋🏼
-Web Developer | Computer Technical | Currently studying Internet Systems
+Software Developer | Computer Technical | Currently studying Internet Systems
 
 - 📧 E-mail: [contato.jardsonalan@gmail.com](mailto:contato.jardsonalan@gmail.com)
 - 💼 LinkedIn: [jardson-alan](https://www.linkedin.com/in/jardson-alan/)
@@ -15,4 +15,4 @@ Web Developer | Computer Technical | Currently studying Internet Systems
 
 ---
 
-[![Skills](https://skillicons.dev/icons?i=vue,vuetify,ts,js,py,html,css,sass,mysql,postgres,vscode,figma,git,github,bash,linux,windows,raspberrypi)](https://github.com/jardsonalan)
+[![Skills](https://skillicons.dev/icons?i=vue,vuetify,ts,js,py,html,css,sass,styledcomponents,mysql,postgres,vscode,figma,git,github,bash,linux,windows,raspberrypi)](https://github.com/jardsonalan)
