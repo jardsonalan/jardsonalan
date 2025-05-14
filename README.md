@@ -9,10 +9,10 @@ Software Developer | Computer Technical | Currently studying Internet Systems
 - Languages: Python, JavaScript, TypeScript, HTML, CSS, Sass/Scss, UML, Markdown
 - Frameworks: Vue.js, Vuetify
 - Databases: MySQL, PostgreSQL
-- Tools: Git, GitHub, Figma, Adobe Photoshop, Visual Studio Code
+- Tools: Git, GitHub, Docker, Figma, Adobe Photoshop, Visual Studio Code
 - Methodology: Conventional Commits
 - Microcontrollers: Raspberry Pi Pico W
 
 ---
 
-[![Skills](https://skillicons.dev/icons?i=vue,vuetify,ts,js,py,html,css,sass,styledcomponents,mysql,postgres,vscode,figma,git,github,bash,linux,windows,raspberrypi)](https://github.com/jardsonalan)
+[![Skills](https://skillicons.dev/icons?i=vue,vuetify,ts,js,py,html,css,sass,styledcomponents,postgres,mysql,docker,vscode,figma,git,github,bash,linux,windows,raspberrypi)](https://github.com/jardsonalan)
