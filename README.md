@@ -1,16 +1,13 @@
-# Hi, I'm Jardson Alan! 👋🏼
-Software Developer | Computer Technical | Currently studying Internet Systems | Programming Content Creator
+👨‍💻 Software Developer. 1+ years of experience.
 
-- 📧 E-mail: [contato.jardsonalan@gmail.com](mailto:contato.jardsonalan@gmail.com)
-- 💼 LinkedIn: [jardson-alan](https://www.linkedin.com/in/jardson-alan/)
-- 🎥 YouTube Channel: [Jardson Alan](https://youtube.com/@jardsonalan)
+🎓 Graduated in Computer Technical at [IFRN](https://portal.ifrn.edu.br/)
 
-## Technical Stack
-- Languages: Python, JavaScript, TypeScript, HTML5, CSS3, Sass/Scss, UML, Markdown
-- Frameworks: Vue.js, Vuetify, Adonis.js
-- Databases: MySQL, PostgreSQL
-- Tools: Git, GitHub, Docker, Figma, Adobe Photoshop, Visual Studio Code
-- Methodology: Conventional Commits
-- Microcontrollers: Raspberry Pi Pico W
+📚 Currently studying Internet Systems at [IFRN](https://portal.ifrn.edu.br/)
 
-[![Skills](https://skillicons.dev/icons?i=vue,vuetify,adonis,ts,js,py,html,css,sass,styledcomponents,postgres,mysql,docker,vscode,figma,git,github,bash,linux,windows,raspberrypi)](https://github.com/jardsonalan)
+📧 E-mail: [contato.jardsonalan@gmail.com](mailto:contato.jardsonalan@gmail.com)
+
+🎥 I share informative content at my [LinkedIn](https://www.linkedin.com/in/jardson-alan/) and [YouTube](https://youtube.com/@jardsonalan) 
+
+---
+
+[![Skills](https://skillicons.dev/icons?i=py,ts,vue,vuetify,adonis,postgres,mysql,docker)](https://skillicons.dev)
