@@ -13,4 +13,4 @@
 
 > Keep building. One commit at a time.
 
-[![My Skills](https://skillicons.dev/icons?i=python,ts,vue,adonis,postgresql,mysql,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,ts,vue,adonis,postgresql,mysql,docker&perline=5)](https://skillicons.dev)
