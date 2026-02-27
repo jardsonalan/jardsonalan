@@ -2,7 +2,7 @@
 
 `Software Developer` | `1+ Years of Experience`
 
-I'm Jardson Alan, trained as an IT technician and currently pursuing a degree in Internet Systems (5/6).
+I'm Jardson Alan, trained as an IT technician and currently pursuing a degree in Internet Systems (5th/6th semester).
 
 ### Technical Stack & Platforms
 - **Stacks:** `Python`, `TypeScript`, `Vue.js`, `AdonisJS`, `PostgreSQL`, `Docker`, `Figma`
